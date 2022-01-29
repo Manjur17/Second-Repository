@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 s This is new features introduced!!!!!!
+=======
+This is a new feature!!!
+This is second Commit
+>>>>>>> 3b626007a9d74a9337c8418fe099ecd3ef33fbea
